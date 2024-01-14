@@ -1,0 +1,1 @@
+<template>Tickets page</template>
